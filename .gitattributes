@@ -1,0 +1,4 @@
+# Normalise text files to LF in the repository and on checkout.
+# Without this, Windows writes CRLF, which makes every file appear
+# modified on each fresh clone.
+* text=auto eol=lf
