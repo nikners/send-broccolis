@@ -1,8 +1,8 @@
-# SendSense — low-fidelity wireframe prototype
+# Send Broccolis — low-fidelity wireframe prototype
 
 > This is a low-fidelity prototype, not a working product. All AI output is hardcoded and the data is synthetic.
 
-**SendSense** is a placeholder name for a campaign builder. The prototype deliberately looks like a
+**Send Broccolis** is a placeholder name for a campaign builder. The prototype deliberately looks like a
 wireframe: greyscale, boxy, 1px borders, square corners, no shadows, no gradients and no images. The
 phone preview is drawn from `div`s.
 
@@ -51,7 +51,7 @@ button bar fixed to the foot of the viewport. Neither moves between steps.
 
 ### Supporting UI
 
-- **Confirm dialogs** — used by Schedule, Send now and Cancel schedule. `Escape` closes any of them.
+- **Confirm dialogs** — used by Schedule, Send broccolis now and Cancel schedule. `Escape` closes any of them.
 - **Toasts** — a plain confirmation after sending, and an 8 second toast with a countdown bar and an
   **Undo** after scheduling or after cancelling a schedule.
 - **Heuristic notes toggle** — in the top bar, off by default. Turning it on adds small bordered tags
